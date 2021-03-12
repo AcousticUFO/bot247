@@ -1,23 +1,22 @@
 {
-  "name": "Bot",
+  "name": "bot247",
   "version": "1.0.0",
+  "description": "",
   "main": "bot.js",
-  "dependencies": {
-    "discord.js": "^12.5.1",
-    "discord.js-commando": "git+https://github.com/discordjs/Commando.git",
-    "discord.js-pagination": "^1.0.3",
-    "dotenv": "^8.2.0",
-    "got": "^11.8.2",
-    "quick.db": "^7.1.3",
-    "winston": "^3.3.3"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Camil97420/bot247.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/Camil97420/bot247/issues"
+  },
+  "homepage": "https://github.com/Camil97420/bot247#readme"
 }
