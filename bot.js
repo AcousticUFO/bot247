@@ -43,4 +43,4 @@ client.registry
     .registerCommandsIn(path.join(__dirname, 'commands'))
 ;
 
-client.login("ODE3Nzc1MDM5Mjg1OTUyNTMz.YEOaWg.HdsJ8gEkNVR00vvTJiEs91_9cIc");
+client.login(process.env.BOT_TOKEN);
